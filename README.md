@@ -5,7 +5,7 @@ You need to install python to be able to use this software. "sudo apt install py
 
 You also need to install tkinter and tk. "sudo apt-get install python3-tk" "pip install tk"
 
-Also, You need to install additional libraries "pip install pydub simpleaudio"
+Also, You need to install additional libraries "pip install pydub pyaudio"
 
 Then, Download the script and run in terminal "python3 tts.py"
 
