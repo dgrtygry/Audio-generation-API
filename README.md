@@ -11,4 +11,6 @@ Then, Download the script and run in terminal "python3 tts.py"
 
 Enjoy!
 
+
+You can test here: https://colab.research.google.com/drive/1ke3CgrfyLBa70n4y_hoUDA9sb7qCvA4R#scrollTo=QHmLWshSXe9s
 Work in progress (W.I.P)
